@@ -5,8 +5,9 @@
 
 <div> <img src="https://img.shields.io/badge/WORKS_ON-OPEN_SOURCE-ef4041?style=for-the-badge"/> <img src="https://img.shields.io/badge/does-server_stuff-e36d25?style=for-the-badge"/> <img src="https://img.shields.io/badge/upholds-technical_debt-31c4f3?style=for-the-badge&logo=byond"/> </div>
 <br>
-Want to support me and what I'm coding?<br>
-https://ko-fi.com/smartkar
+Want to support me and what I'm coding?
+<br><br>
+<a href='https://ko-fi.com/B0B617V7WI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 </div>
 
