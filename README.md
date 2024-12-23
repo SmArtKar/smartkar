@@ -4,5 +4,9 @@
 <hr>
 
 <div> <img src="https://img.shields.io/badge/WORKS_ON-OPEN_SOURCE-ef4041?style=for-the-badge"/> <img src="https://img.shields.io/badge/does-server_stuff-e36d25?style=for-the-badge"/> <img src="https://img.shields.io/badge/upholds-technical_debt-31c4f3?style=for-the-badge&logo=byond"/> </div>
+<br>
+Want to support me and what I'm coding?<br>
+https://ko-fi.com/smartkar
 
 </div>
+
