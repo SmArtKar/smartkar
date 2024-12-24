@@ -1,5 +1,5 @@
-<div><img src="https://github-readme-stats.vercel.app/api?username=smartkar&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=radical"href="https://www.patreon.com/SmArtKar" align="top"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartkar&show_icons=true&theme=radical" href="https://ko-fi.com/smartkar" align="top"/> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tgstation&repo=tgstation&theme=radical" href="https://github.com/tgstation/tgstation"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=smartkar&repo=AthenaFramework&theme=radical" href="https://github.com/smartkar/AthenaFramework"/>
+<div><a href="https://www.patreon.com/SmArtKar"><img src="https://github-readme-stats.vercel.app/api?username=smartkar&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=radical" align="top"/></a> <a href="https://ko-fi.com/smartkar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartkar&show_icons=true&theme=radical" align="top"/></a>
+<a href="https://github.com/tgstation/tgstation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tgstation&repo=tgstation&theme=radical"/></a> <a href="https://github.com/smartkar/AthenaFramework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartkar&repo=AthenaFramework&theme=radical"/></a>
 
 <hr>
 
